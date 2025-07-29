@@ -1,6 +1,4 @@
 #-*-coding:cp1252-*-
-#Corrección del ejercicio de PI por la serie de Leibniz
-#Por: Jorge Alarcón
 i = 0 #Contador para iterar
 n = 0 #Número de términos de la serie
 total = 0 #Sumatoria de términos
